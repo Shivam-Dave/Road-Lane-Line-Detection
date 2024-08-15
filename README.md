@@ -35,9 +35,10 @@ The "Road Lane Line Detection" repository contains scripts and resources for dev
  
  
 ## Usage
-1.Open the Jupyter Notebook file.
-2.Load the sample video or image files.
-3.Run the script to detect and visualize lane lines on the road.
+1. Open the Jupyter Notebook file.
+2. Load the sample video or image files.
+3. Run the script to detect and visualize lane lines on the road.
+
 
 
 ## License
